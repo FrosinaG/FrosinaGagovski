@@ -57,7 +57,7 @@ const Contact = () => {
                 <span className="social-icon">
                   <a
                     href="https://github.com/FrosinaG?tab=repositories"
-                    target="_blank"
+                  
                     className="social-link"
                   >
                     <svg

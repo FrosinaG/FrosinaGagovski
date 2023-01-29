@@ -39,7 +39,7 @@ function JavaScript() {
         </div>
         <div className="container-img">
           {" "}
-          <a href="">
+          <a href="https://github.com/FrosinaG/exercise-app">
             {" "}
             <img src={card} alt="project" className="all-portfolio" />{" "}
             <p className="view">

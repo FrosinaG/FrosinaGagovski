@@ -7,7 +7,6 @@ const Footer = () => {
         <div className="social-icon-f">
           <a
             href="https://github.com/FrosinaG?tab=repositories"
-            target="_blank"
             className="social-link"
           >
             <svg
