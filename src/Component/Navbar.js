@@ -54,7 +54,7 @@ const Navbar = () => {
                 </li>
 
                 <li className="nav-item">
-                  <Link to className="nav-link" href="aboutme">
+                  <Link to="aboutme"className="nav-link" >
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       width="16"
@@ -69,7 +69,8 @@ const Navbar = () => {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link to className="nav-link" href="contact">
+                  <Link to="contact" className="nav-link" 
+                  >
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       width="16"
