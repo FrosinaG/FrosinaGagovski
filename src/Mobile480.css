@@ -79,6 +79,7 @@
     margin: 150px auto;
     padding: 0;
   }
+.aboutimg
   .container-img {
     width: 90%;
     margin: 20px auto;
@@ -95,8 +96,8 @@
     margin-top: 0;
   }
   .aboutimg {
-    width: 90%;
-    max-height: 230px;
+    width: 100%;
+    /* max-height: 200px; */
   }
   h2 {
     text-align: center;
@@ -112,16 +113,31 @@
     width: 80%;
     margin: 0 auto;
   }
-  .aboutimg-cont, .Contact-cont1{
+  .col {
+    display: block;
+    margin: auto;
+  }
+  /* .mark {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .row {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    padding: 10px;
+  } */
+  .aboutimg-cont {
     display: block;
   }
-  .contact-p{
+  .contact-p {
     font-size: 18px;
   }
-  .contactIn, .mb-3 {
+  .contactIn,
+  .mb-3 {
     font-size: 11px;
   }
-  .sent-but{
+  .sent-but {
     font-size: 10px;
   }
 }

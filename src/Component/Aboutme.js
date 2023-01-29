@@ -6,7 +6,7 @@ import Education from "./Education";
 const Aboutme = () => {
   return (
     <div className="ABOUT">
-      <div className="container text-center">
+      <div className="container text-center allabout">
         <div className="row justify-content-md-center">
           <div className="col cont-about">
             <h2 className="who">
@@ -33,9 +33,14 @@ const Aboutme = () => {
           </div>
         </div>
         <div className="row">
-          <div className="col">
+          <div className="col ">
             <div className="aboutimg-cont">
-              <img src={myself} height="330PX" alt="Frosina" className="aboutimg" />
+              <img
+                src={myself}
+                height="330PX"
+                alt="Frosina"
+                className="aboutimg"
+              />
             </div>
           </div>
           <div className="col">
