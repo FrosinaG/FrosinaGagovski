@@ -1,0 +1,115 @@
+@media screen and (max-width: 480px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .home-con,
+  .ABOUT {
+    display: block;
+    width: 100%;
+    padding: 0;
+    padding-bottom: 500px;
+    margin: 0 auto;
+  }
+
+  .home-cont {
+    width: 90%;
+    margin: 10px auto;
+    padding-top: 150px;
+  }
+  .mob1 {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+  }
+  .home-title {
+    text-align: center;
+    font-size: 30px;
+  }
+  button {
+    padding: 1px 3px;
+    border-radius: 30px;
+    font-weight: 300px;
+    font-size: 18px;
+    text-align: center;
+  }
+  .ABOUT {
+    margin: 0 auto;
+  }
+  .mob-nav {
+    max-height: 50px;
+  }
+  .MyName {
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 20px;
+  }
+  .navcon-Name {
+    max-height: 50px;
+  }
+  .cont-about {
+    margin-top: 100px;
+  }
+  .all-of-education {
+    display: block;
+    width: 90%;
+    margin: 30px auto;
+  }
+  .part {
+    width: 90%;
+    margin: 20px auto;
+    padding: 10px;
+  }
+  .Contact-cont1 {
+    display: block;
+    width: 100%;
+  }
+  .cont-part {
+    width: 100%;
+    margin: 0;
+    padding: 5px;
+  }
+  .Contact-cont {
+    padding: 100px 20px;
+    margin: 0px auto;
+  }
+  .portfolio-img-all {
+    display: block;
+    margin: 150px auto;
+    padding: 0;
+  }
+  .container-img {
+    width: 90%;
+    margin: 20px auto;
+  }
+  .footer-social-icon {
+    width: 70%;
+    margin: 0 auto;
+  }
+  .social-icon-f {
+    box-shadow: 0px 2px 2px rgb(0 0 0 / 30%);
+    width: 23%;
+  }
+  .footer-social-icon {
+    margin-top: 0;
+  }
+  .aboutimg {
+    width: 90%;
+    max-height: 230px;
+  }
+  h2 {
+    text-align: center;
+    font-size: 25px;
+    width: 90%;
+    margin: 0 auto;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  .view {
+    font-size: 12px;
+    width: 80%;
+    margin: 0 auto;
+  }
+}
