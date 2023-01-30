@@ -28,7 +28,6 @@ function App() {
           <Route path="htmlCss" element={<HtmlCss />}></Route>
           <Route path="javaScript" element={<JavaScript />}></Route>
           <Route path="reactpro" element={<Reactproject />}></Route>
-
           <Route path="contact" element={<Contact />}></Route>
         </Routes>
         <Footer />
