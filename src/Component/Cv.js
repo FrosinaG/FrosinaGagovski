@@ -15,13 +15,14 @@ const Cv = () => {
 
   return (
     <div>
-      <button
+      < a href="FrosinaCV.pdf" download="FrosinaCV.pdf"><button> DOWNLOAD MY CV</button></a>
+      {/* <button
         onClick={() => {
           downoadFileatUrl(png_file_url);
         }}
       >
         DOWNLOAD MY CV
-      </button>
+      </button> */}
     </div>
   );
 };
