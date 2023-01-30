@@ -32,8 +32,8 @@ const Aboutme = () => {
             </p>
           </div>
         </div>
-        <div className="row">
-          <div className="col ">
+        <div className="row ff">
+          <div className="col selfimg">
             <div className="aboutimg-cont">
               <img
                 src={myself}

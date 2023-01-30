@@ -1,7 +1,7 @@
 import "bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import "./Mobile480.css";
+import "./Mobile.css";
 import Home from "./Component/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AllProject from "./Component/AllProject";
@@ -28,7 +28,6 @@ function App() {
           <Route path="htmlCss" element={<HtmlCss />}></Route>
           <Route path="javaScript" element={<JavaScript />}></Route>
           <Route path="reactpro" element={<Reactproject />}></Route>
-
           <Route path="contact" element={<Contact />}></Route>
         </Routes>
         <Footer />
