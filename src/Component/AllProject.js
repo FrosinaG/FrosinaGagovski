@@ -19,7 +19,7 @@ import newreact from "../Portfolio-img/react-new.png";
 import projectreact from "../Portfolio-img/react-project.png";
 import test from "../Portfolio-img/react-test.png";
 import shopreact from "../Portfolio-img/react-shop.png"
-import Reactproject from "./Reactproject";
+
 
 
 const AllProject = () => {
